@@ -22,7 +22,7 @@ Resoruces:
 
 ## Day 4: 7/14/2020
 
-### 2. Networking  - Lesson 1 - 5
+### 2.1 Networking  - Lesson 1 - 5
 
 Resoruces:
 - https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/cs1-design-understanding.html
@@ -30,7 +30,7 @@ Resoruces:
 
 ## Day 5: 7/15/2020
 
-### 2. Networking  - Lesson 5 - 10
+### 2.2 Networking  - Lesson 5 - 10
 
 ### Open VSwitch : http://docs.openvswitch.org/en/latest/
 
