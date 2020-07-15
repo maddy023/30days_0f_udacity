@@ -28,6 +28,19 @@ Resoruces:
 - https://www.juniper.net/documentation/en_US/release-independent/nce/topics/concept/cs1-design-understanding.html
  
 
+## Day 5: 7/15/2020
+
+### 2. Networking  - Lesson 5 - 10
+
+# Open VSwitch : http://docs.openvswitch.org/en/latest/
+
+Resoruces:
+- https://www.youtube.com/watch?v=9DAPNvGYF70
+- https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.html
+- https://www.vmware.com/topics/glossary/content/virtual-networking
+- https://www.vmware.com/support/ws5/doc/ws_net_component_vswitch.html
+ 
+
 
      
    
