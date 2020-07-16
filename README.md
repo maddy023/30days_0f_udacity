@@ -40,6 +40,10 @@ Resoruces:
 - https://www.vmware.com/topics/glossary/content/virtual-networking
 - https://www.vmware.com/support/ws5/doc/ws_net_component_vswitch.html
  
+## Day 6: 7/16/2020
+
+### 2.2 Networking  - Lesson 10 - 15
+
 
 
      
