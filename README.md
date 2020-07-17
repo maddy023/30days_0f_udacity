@@ -44,6 +44,14 @@ Resoruces:
 
 ### 2.2 Networking  - Lesson 10 - 15
 
+ 
+## Day 7: 7/17/2020
+
+### 2.2 Networking  - Lesson 15 - 20
+
+Resoruces:
+- https://www.geeksforgeeks.org/virtual-lan-vlan/
+
 
 
      
