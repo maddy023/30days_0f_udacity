@@ -42,15 +42,23 @@ Resoruces:
  
 ## Day 6: 7/16/2020
 
-### 2.2 Networking  - Lesson 10 - 15
+### 2.3 Networking  - Lesson 10 - 15
 
  
 ## Day 7: 7/17/2020
 
-### 2.2 Networking  - Lesson 15 - 20
+### 2.4 Networking  - Lesson 15 - 20
 
 Resoruces:
 - https://www.geeksforgeeks.org/virtual-lan-vlan/
+
+## Day 8: 7/18/2020
+
+### 3.1 Managing VM   - Lesson 1 - 5
+
+Resoruces:
+- https://www.ibm.com/cloud/learn/virtual-machines
+- https://www.vmware.com/topics/glossary/content/virtual-machine
 
 
 
