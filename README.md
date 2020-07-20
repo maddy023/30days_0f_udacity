@@ -60,6 +60,13 @@ Resoruces:
 - https://www.ibm.com/cloud/learn/virtual-machines
 - https://www.vmware.com/topics/glossary/content/virtual-machine
 
+## Day 9: 7/19/2020
+
+### 3.2 Managing VM   - Lesson 5 - 10
+
+## Day 10: 7/20/2020
+
+### 3.3 Managing VM   - Lesson 11 - 15
 
 
      
