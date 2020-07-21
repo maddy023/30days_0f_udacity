@@ -68,6 +68,9 @@ Resoruces:
 
 ### 3.3 Managing VM   - Lesson 11 - 15
 
+## Day 1: 7/21/2020
+
+### 3.4  Managing VM - Other Related Concepts
 
      
    
