@@ -72,7 +72,7 @@ Resoruces:
 
 ### 3.4  Managing VM - Other Related Concepts
 
-## Day 11: 7/22/2020
+## Day 12: 7/22/2020
 
 ### 4.0  Data Protection 
      
