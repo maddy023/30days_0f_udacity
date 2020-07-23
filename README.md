@@ -76,5 +76,9 @@ Resoruces:
 
 ### 4.0  Data Protection 
      
+## Day 13: 7/23/2020
+
+### 4.1  Data Protection - Basics 
+     
    
   
