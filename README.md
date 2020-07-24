@@ -80,5 +80,9 @@ Resoruces:
 
 ### 4.1  Data Protection - Basics 
      
+## Day 14: 7/24/2020
+
+### 4.2  Data Protection - Lesson 1- 6  
+     
    
   
