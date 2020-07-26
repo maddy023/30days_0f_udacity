@@ -89,5 +89,8 @@ Resoruces:
 
 ### 4.3  Data Protection - Lesson 7 - 11 
 
+## Day 16: 7/26/2020
+
+### 4.4  Data Protection - Lesson 11 -  18
    
   
