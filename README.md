@@ -93,4 +93,8 @@ Resoruces:
 
 ### 4.4  Data Protection - Lesson 11 -  18
    
-  
+## Day 17: 7/27/2020
+
+### How to Succeed with Private Cloud
+Resoruces:
+- https://www.nutanix.com/viewer?type=pdf&lpurl=succeed-with-private-cloud&fromCampaign=true
