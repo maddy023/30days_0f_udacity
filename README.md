@@ -98,3 +98,9 @@ Resoruces:
 ### How to Succeed with Private Cloud
 Resoruces:
 - https://www.nutanix.com/viewer?type=pdf&lpurl=succeed-with-private-cloud&fromCampaign=true
+
+## Day 18: 7/18/2020
+
+### AHV Best Practices
+Resoruces:
+- https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
