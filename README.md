@@ -99,8 +99,14 @@ Resoruces:
 Resoruces:
 - https://www.nutanix.com/viewer?type=pdf&lpurl=succeed-with-private-cloud&fromCampaign=true
 
-## Day 18: 7/18/2020
+## Day 18: 7/28/2020
 
 ### AHV Best Practices
+Resoruces:
+- https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
+
+## Day 19: 7/29/2020
+
+### AHV Best Practices - 2 
 Resoruces:
 - https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
