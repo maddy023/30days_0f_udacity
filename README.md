@@ -116,3 +116,11 @@ Resoruces:
 ### AHV Best Practices - 3
 Resoruces:
 - https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
+
+
+## Day 21: 7/31/2020
+
+### AHV Best Practices - 4
+Resoruces:
+- https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
+
