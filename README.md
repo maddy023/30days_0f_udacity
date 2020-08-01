@@ -124,3 +124,9 @@ Resoruces:
 Resoruces:
 - https://www.nutanix.com/viewer?type=pdf&lpurl=/go/ahv-best-practices-guide&fromCampaign=true
 
+
+## Day 22: 08/1/2020
+
+### Nutanix AI-ready 
+Resoruces:
+- https://www.nutanix.com/solutions/ai
