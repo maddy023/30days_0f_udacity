@@ -136,3 +136,9 @@ Resoruces:
 ### Nutanix AI-ready 2 
 Resoruces:
 - https://www.nutanix.com/solutions/ai
+
+## Day 24: 08/3/2020
+
+### Nutanix AI-ready 3
+Resoruces:
+- https://www.nutanix.com/solutions/ai
