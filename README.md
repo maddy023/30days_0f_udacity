@@ -148,3 +148,7 @@ Resoruces:
 ### Nutanix AI-ready 3
 Resoruces:
 - https://www.nutanix.com/solutions/ai
+
+## Day 26: 08/5/2020
+
+### Started google kubernetes engine - gke
