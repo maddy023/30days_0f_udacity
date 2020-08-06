@@ -152,3 +152,7 @@ Resoruces:
 ## Day 26: 08/5/2020
 
 ### Started google kubernetes engine - gke
+
+## Day 27: 08/6/2020
+
+###  Google kubernetes engine - gke : Concepts
