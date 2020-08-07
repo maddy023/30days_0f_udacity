@@ -156,3 +156,9 @@ Resoruces:
 ## Day 27: 08/6/2020
 
 ###  Google kubernetes engine - gke : Concepts
+
+
+## Day 28: 08/7/2020
+
+###  Google kubernetes engine - gke : Intro to containers
+
