@@ -162,3 +162,9 @@ Resoruces:
 
 ###  Google kubernetes engine - gke : Intro to containers
 
+
+## Day 29: 08/8/2020
+
+###  Google kubernetes engine - gke : kubernetes Arch
+###  Joomla Website Dev
+###  Docker Swarm 
