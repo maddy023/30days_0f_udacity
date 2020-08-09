@@ -168,3 +168,12 @@ Resoruces:
 ###  Google kubernetes engine - gke : kubernetes Arch
 ###  Joomla Website Dev
 ###  Docker Swarm 
+
+
+## Day 30: 08/9/2020
+
+###  Google kubernetes engine - gke : The Kubernetes Control Plane
+###  Joomla Website Dev : JD Builder
+
+
+
