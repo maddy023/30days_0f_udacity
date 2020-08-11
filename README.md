@@ -175,5 +175,10 @@ Resoruces:
 ###  Google kubernetes engine - gke : The Kubernetes Control Plane
 ###  Joomla Website Dev : JD Builder
 
+## Day 31: 08/11/2020
+
+###  Google kubernetes engine - gke : Biocontainers
+###  NGS - Next Generation Seq 
+
 
 
