@@ -181,4 +181,10 @@ Resoruces:
 ###  NGS - Next Generation Seq 
 
 
+## Day 32: 08/12/2020
+
+###  Google kubernetes engine - gke 
+###  NGS - Next Generation Seq :Rnaseq
+
+
 
