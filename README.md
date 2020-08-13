@@ -186,5 +186,8 @@ Resoruces:
 ###  Google kubernetes engine - gke 
 ###  NGS - Next Generation Seq :Rnaseq
 
+## Day 33: 08/13/2020
+
+###  Google kubernetes engine - gke : Started Qwiklabs Credits
 
 
