@@ -190,4 +190,10 @@ Resoruces:
 
 ###  Google kubernetes engine - gke : Started Qwiklabs Credits
 
+###Had to skip few days due to medical emergency
+
+## Day 34 : 8/17/2020
+
+### Revied Google Kubernets 
+### Analysis Platfrom for NGS:Breast Cancer  
 
