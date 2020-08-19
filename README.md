@@ -195,5 +195,16 @@ Resoruces:
 ## Day 34 : 8/17/2020
 
 ### Revied Google Kubernets 
-### Analysis Platfrom for NGS:Breast Cancer  
+### Analysis Platfrom for NGS:Breast Cancer 
+
+## Day 35 : 8/18/2020
+ 
+### NGS Clinical Diagonsis 
+
+## Day 36 : 8/19/2020
+ 
+### ADNI - Alzheimer's Disease with DeepLearning
+### NGS - Clinical Seq
+
+
 
