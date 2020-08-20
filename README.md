@@ -206,5 +206,9 @@ Resoruces:
 ### ADNI - Alzheimer's Disease with DeepLearning
 ### NGS - Clinical Seq
 
+## Day 37 : 8/20/2020
+ 
+### ADNI - Alzheimer's Disease with DeepLearning : Preprocessing the MRI data
+### Back to kubernetes engine
 
 
