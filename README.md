@@ -212,3 +212,10 @@ Resoruces:
 ### Back to kubernetes engine
 
 
+## Day 38 : 8/22/2020
+ 
+### ADNI - Alzheimer's Disease with DeepLearning : Preprocessing the MRI data
+### Study Jam : poster making
+
+
+
