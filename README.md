@@ -217,5 +217,8 @@ Resoruces:
 ### ADNI - Alzheimer's Disease with DeepLearning : Preprocessing the MRI data
 ### Study Jam : poster making
 
+## Day 39 : 8/24/2020
 
+## ADNI : Matlab Skull Stripping 
+## Preparing Cloud Platform for Deep Learning 
 
