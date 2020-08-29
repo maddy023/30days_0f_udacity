@@ -222,3 +222,8 @@ Resoruces:
 ## ADNI : Matlab Skull Stripping 
 ## Preparing Cloud Platform for Deep Learning 
 
+
+## Day 40 : 8/29/2020
+
+## 3dCNN model for ADNI 
+
