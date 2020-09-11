@@ -227,3 +227,12 @@ Resoruces:
 
 ## 3dCNN model for ADNI 
 
+## Took Gap due to medical reason.
+
+## Day 41 : 8/11/2020
+
+## ADNI Unet 
+## Ansible for Galaxgy.eu project
+
+
+
