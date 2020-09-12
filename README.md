@@ -229,9 +229,14 @@ Resoruces:
 
 ## Took Gap due to medical reason.
 
-## Day 41 : 8/11/2020
+## Day 41 : 11/09/2020
 
 ## ADNI Unet 
+## Ansible for Galaxgy.eu project
+
+## Day 42 : 12/09/2020
+
+## NGS linux Script - Automation 
 ## Ansible for Galaxgy.eu project
 
 
