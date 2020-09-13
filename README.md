@@ -239,5 +239,8 @@ Resoruces:
 ## NGS linux Script - Automation 
 ## Ansible for Galaxgy.eu project
 
+## Day 43 : 13/09/2020
 
+## MRI data preprocessing - Python scirpts 
+## Super Image Resolution with Autoencoder 
 
