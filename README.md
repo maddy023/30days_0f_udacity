@@ -244,3 +244,7 @@ Resoruces:
 ## MRI data preprocessing - Python scirpts 
 ## Super Image Resolution with Autoencoder 
 
+## Day 44 : 14/09/2020
+
+## MRI data preprocessing - Python scirpts - Image Registration
+##  federated learning - pysyft
