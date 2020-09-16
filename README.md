@@ -248,3 +248,9 @@ Resoruces:
 
 ## MRI data preprocessing - Python scirpts - Image Registration
 ##  federated learning - pysyft
+
+## Day 45 : 16/09/2020
+
+## MRI data preprocessing - Python scirpts -  Bias Field
+##  federated learning on different servers- pysyft - MRI data
+
